@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "RobotDance",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

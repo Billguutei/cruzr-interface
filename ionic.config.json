@@ -1,0 +1,7 @@
+{
+  "name": "RobotDance",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
